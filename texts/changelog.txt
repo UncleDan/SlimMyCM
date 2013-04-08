@@ -1,0 +1,11 @@
+4.13.1 08/04/2013
+* graphic improvements
+* code clean-up
+* files clean-up
+* added "7z.dll" to make the script works without 7zip installed
+* "SlimMyCM.cmd" will not delete "Gallery2.apk" anymore (Gallery and Camera available out-of-the box)
+* added placeholders for "7z.exe" "7z.dll" and launcher and superuser APKs for easier github sync
+* "SlimMyGApps.cmd" minor fix (label NoGApps2)
+
+ALPHA0 05/04/2013
+* Initial Release
