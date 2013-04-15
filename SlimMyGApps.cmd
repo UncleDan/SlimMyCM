@@ -26,6 +26,7 @@ type ..\texts\blank.txt
 echo Cleaning up gapps...
 type ..\texts\blank.txt
 if exist cleangapps.txt for %%f in (*.zip) do ..\7z d -ssc %%f @cleangapps.txt
+cd ..
 goto End
 :NoGApps
 type texts\blank.txt
