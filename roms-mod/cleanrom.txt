@@ -6,12 +6,17 @@ system\app\Email2.apk
 system\app\Exchange2.apk
 system\app\Galaxy4.apk
 system\app\HoloSpiralWallpaper.apk
+system\app\HwaSettings.apk
 system\app\LiveWallpapers.apk
 system\app\LiveWallpapersPicker.apk
 system\app\MagicSmokeWallpapers.apk
+system\app\MotoFM.apk
+system\app\MotoFMService.apk
+system\app\MotoPhonePortal.apk
 system\app\NoiseField.apk
 system\app\PhaseBeam.apk
 system\app\QuickSearchBox.apk
+system\app\Usb.apk
 system\app\VideoEditor.apk
 system\app\VisualizationWallpapers.apk
 system\app\VoiceDialer.apk

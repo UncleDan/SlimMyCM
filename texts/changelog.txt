@@ -1,3 +1,7 @@
+5.13.1 29/05/2013 cm-10.1-20130527-NIGHTLY-mb526.zip gapps-jb-20130301-signed.zip
+
+* "roms-mod\cleanrom.txt" modified to delete also "HwaSettings.apk", "MotoFM.apk", "MotoFMService.apk", "MotoPhonePortal.apk", "Usb.apk" (if present)
+
 4.13.2 15/04/2013
 * "SlimMyGApps.cmd" fix missing "cd .." (causing only display error)
 
