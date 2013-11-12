@@ -1,4 +1,4 @@
-[TOOL:CM10.1] SlimMyCM
+[TOOL:CM10.1] SlimMyKK
 http://forum.xda-developers.com/showthread.php?t=2222436
 
 CM10.1 on Defy is simply incredible, but it is becoming a really big ROM.
@@ -20,7 +20,7 @@ it is highly recommended to flash gapps just after the ROM and before rebooting 
 Instructions:
 * Unzip the script in a folder
 * Place your favourite CM10.1 release (e.g.: "cm-10.1-20130404-NIGHTLY-mb526.zip") in the "roms" subfolder)
-* Run SlimMyCM.cmd double clicking on it
+* Run SlimMyKK.cmd double clicking on it
 * You will find your light version of the release in subfolder roms-mod (e.g.: "cm-10.1-20130404-NIGHTLY-mb526.MOD.zip")
 * Flash it and enjoy
 
